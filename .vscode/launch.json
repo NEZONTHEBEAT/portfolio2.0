@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open portfolio_2.0.html",
+            "file": "e:\\ACADEMIC\\FINAL PROJECTS\\Portfolio 2.0\\portfolio_2.0.html"
+        }
+    ]
+}
