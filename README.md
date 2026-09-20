@@ -1,4 +1,4 @@
-# 👨‍💻 Kalyan Baraik — Developer Portfolio
+# Kalyan Baraik — Developer Portfolio
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge)
 ![Frontend](https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge)
@@ -7,12 +7,12 @@
 > A modern, responsive personal portfolio showcasing my skills, projects,
 > experience, education, certifications, and journey as a developer.
 
-🌐 **Live Portfolio:**  
+**Live Portfolio:**  
 https://kalyanbaraikdeveloper.netlify.app/
 
 ---
 
-## 👋 About Me
+## About Me
 
 Hi, I'm **Kalyan Baraik**, a passionate **Frontend / Full-Stack Developer** and BCA student based in West Bengal, India.
 
@@ -20,19 +20,19 @@ I enjoy building modern, responsive, user-friendly web applications and digital 
 
 My primary interests include:
 
-- 🌐 Frontend Development
-- ⚡ Full-Stack Web Development
-- 🤖 AI-powered applications
-- 🔌 REST API Development
-- 🗄️ Database-driven applications
-- 🎨 UI/UX & Interactive Web Experiences
-- ☁️ Cloud & Web Deployment
+- Frontend Development
+- Full-Stack Web Development
+- AI-powered applications
+- REST API Development
+- Database-driven applications
+- UI/UX & Interactive Web Experiences
+- Cloud & Web Deployment
 
 I focus on writing clean, maintainable code while creating interfaces that are both functional and visually engaging.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -87,7 +87,7 @@ I focus on writing clean, maintainable code while creating interfaces that are b
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Web Developer Intern — Placewell Retail
 
@@ -106,9 +106,9 @@ Worked on:
 
 ---
 
-## 🛠️ Featured Projects
+## Featured Projects
 
-### 💰 Reviator AI — AI Revenue Recovery Agent
+### Reviator AI — AI Revenue Recovery Agent
 
 An AI-powered revenue recovery system designed to identify failed transactions, analyze recovery opportunities, and recommend recovery actions.
 
@@ -131,7 +131,7 @@ An AI-powered revenue recovery system designed to identify failed transactions, 
 
 ---
 
-### 🛒 ReKart — Sustainable Recycling Marketplace
+### ReKart — Sustainable Recycling Marketplace
 
 A digital marketplace concept designed around recycling and responsible disposal.
 
@@ -150,7 +150,7 @@ A digital marketplace concept designed around recycling and responsible disposal
 
 ---
 
-### 📱 iPhone Pre-Booking System
+### iPhone Pre-Booking System
 
 A full-stack pre-booking platform with payment and notification integration.
 
@@ -169,7 +169,7 @@ A full-stack pre-booking platform with payment and notification integration.
 
 ---
 
-### 🍽️ DineSync — Cafeteria Management System
+### DineSync — Cafeteria Management System
 
 A web-based cafeteria management solution designed to simplify food ordering and operational workflows.
 
@@ -183,7 +183,7 @@ A web-based cafeteria management solution designed to simplify food ordering and
 
 ---
 
-### 📄 Doxly — PDF Utility Platform
+### Doxly — PDF Utility Platform
 
 A web-based PDF utility platform inspired by online document-processing tools.
 
