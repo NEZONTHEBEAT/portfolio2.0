@@ -200,14 +200,14 @@ A web-based PDF utility platform inspired by online document-processing tools.
 │             WHAT I BUILD                │
 ├─────────────────────────────────────────┤
 │                                         │
-│  🌐 Responsive Websites                │
-│  ⚡ Modern Web Applications             │
-│  🤖 AI-powered Applications             │
-│  🔌 REST APIs                          │
-│  💳 Payment Integrations               │
-│  📊 Admin Dashboards                   │
-│  🛒 E-commerce Platforms               │
-│  🎨 Interactive UI/UX                  │
-│  ☁️ Deployed Cloud Applications        │
+│   Responsive Websites                   │
+│   Modern Web Applications               │
+│   AI-powered Applications               │
+│   REST APIs                             │
+│   Payment Integrations                  │
+│   Admin Dashboards                      │
+│   E-commerce Platforms                  │
+│   Interactive UI/UX                     │
+│   Deployed Cloud Applications           │
 │                                         │
 └─────────────────────────────────────────┘
