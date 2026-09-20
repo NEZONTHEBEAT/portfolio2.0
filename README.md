@@ -193,7 +193,7 @@ A web-based PDF utility platform inspired by online document-processing tools.
 
 ---
 
-## 🎯 What I Build
+## What I Build
 
 ```text
 ┌─────────────────────────────────────────┐
