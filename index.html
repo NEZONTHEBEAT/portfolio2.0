@@ -2158,10 +2158,10 @@ document.getElementById('contact-form').addEventListener('submit', function(e) {
   submitBtn.disabled = true;
   submitBtn.textContent = 'Sending...';
 
-  // ✅ YOUR WEB APP URL HERE
+  // WEB APP URL HERE
   const scriptURL = 'https://script.google.com/macros/s/AKfycbwIHDYpnypTF2fKXbz2I1tAjHZ--NklRHLdXOx-2iEZClEnTNwtJPhFmClxccikX7fn/exec';
 
-  // ✅ FormData construction
+  // FormData construction
   const formData = new FormData();
   formData.append('name', fullName);
   formData.append('email', email);
