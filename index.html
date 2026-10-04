@@ -339,13 +339,15 @@
       margin-bottom: 16px;
     }
     .hero-name span { color: var(--primary); }
-    .hero-tagline {
+    .hero-tagline 
+    {
       font-size: clamp(16px, 2vw, 20px);
       color: var(--muted-foreground);
       margin-bottom: 28px;
       min-height: 30px;
     }
-    .hero-tagline .cursor-blink {
+    .hero-tagline .cursor-blink 
+    {
       display: inline-block;
       width: 2px;
       height: 1.1em;
@@ -354,7 +356,8 @@
       margin-left: 2px;
       animation: blink 1s step-end infinite;
     }
-    @keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: 0; } }
+    @keyframes blink 
+    { 0%,100% { opacity: 1; } 50% { opacity: 0; } }
     .hero-bio {
       font-size: 15px;
       color: var(--muted-foreground);
@@ -421,13 +424,15 @@
     }
 
     /* ─── BADGE GRID (for Tech Stack) ────── */
-    .badge-grid {
+    .badge-grid 
+    {
       display: flex;
       flex-wrap: wrap;
       gap: 8px;
       margin-top: 8px;
     }
-    .badge-grid .badge {
+    .badge-grid .badge 
+    {
       display: inline-flex;
       align-items: center;
       gap: 6px;
@@ -439,14 +444,18 @@
       box-shadow: var(--shadow);
       transition: 0.15s;
     }
-    .badge-grid .badge:hover {
+    .badge-grid .badge:hover 
+    {
       background: var(--primary);
       color: var(--primary-foreground);
       border-color: var(--primary);
       transform: translate(-2px, -2px);
       box-shadow: 5px 5px 0px 0px rgba(0,0,0,1);
     }
-    .badge-grid .badge i { font-size: 14px; }
+    .badge-grid .badge i 
+    { 
+      font-size: 14px; 
+    }
 
     /* ─── ABOUT ───────────────────────────── */
     .about-grid {
